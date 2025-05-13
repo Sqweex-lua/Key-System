@@ -4,7 +4,7 @@ local MenuWidth = 300
 local MenuHeight = 400
 local ESPEnabled = false
 local TeamCheckEnabled = true
-local ValidKey = "Jwd3awK"
+local ValidKey = "LUA-KEY388HDQO618"
 local KeyVerified = false
 function Window.CreateButton(parent, text, callback)
     local button = Instance.new("TextButton")
